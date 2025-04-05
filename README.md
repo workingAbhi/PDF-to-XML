@@ -7,7 +7,10 @@ A web application that converts PDF documents to structured XML format with user
 ## Features
 
 - **User Authentication**: Secure signup and login
+- ![Sign Up](./ptx-snips/ptx-sign-up.png)
+- ![Login](./ptx-snips/ptx-login.png)
 - **PDF to XML Conversion**: Convert PDFs to structured XML
+- ![Dashboard](./ptx-snips/ptx-dash.png)
 - **Content Extraction**: Text, tables, images, and document structure
 - **Conversion History**: Track all conversion activities
 
