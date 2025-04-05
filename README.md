@@ -2,7 +2,7 @@
 
 A web application that converts PDF documents to structured XML format with user authentication and conversion history tracking.
 
-![Homepage](./ptx snips/ptx homepage.png)
+![Homepage](./ptx-snips/ptx-homepage.png)
 
 ## Features
 
